@@ -9,3 +9,5 @@
 5. Olivarea Bryan
 6. Trujillo Pablo
 
+API: https://api-spring.rj.r.appspot.com/contactos
+Frontend: http://web-aplication.s3-website-us-east-1.amazonaws.com/
